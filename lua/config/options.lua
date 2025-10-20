@@ -15,3 +15,5 @@ g.clipboard = {
     ["*"] = require("vim.ui.clipboard.osc52").paste("*"),
   },
 }
+
+vim.o.shell = "/usr/bin/fish"
