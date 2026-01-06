@@ -16,4 +16,4 @@ g.clipboard = {
   },
 }
 
-vim.o.shell = "/usr/bin/fish"
+vim.o.shell = "fish"
